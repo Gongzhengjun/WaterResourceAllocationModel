@@ -1,0 +1,8 @@
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.GeneratedMSBuildEditorConfig.editorconfig
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.AssemblyInfoInputs.cache
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.AssemblyInfo.cs
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.csproj.CoreCompileInputs.cache
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\bin\Debug\net452\Utils.dll
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\bin\Debug\net452\Utils.pdb
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.dll
+F:\工作\黑龙江省水资源调配管理系统\WaterResourcesSystem\Utils\obj\Debug\net452\Utils.pdb
